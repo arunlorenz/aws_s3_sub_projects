@@ -1,0 +1,9 @@
+[submodule "resume-generator"]
+	path = resume-generator
+	url = https://github.com/arunlorenz/resume-generator.git
+[submodule "log-segregator"]
+	path = log-segregator
+	url = https://github.com/arunlorenz/log-segregator.git
+[submodule "image-uploader-s3"]
+	path = image-uploader-s3
+	url = https://github.com/arunlorenz/image-uploader-s3.git
